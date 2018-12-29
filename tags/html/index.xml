@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Minimal</title>
-    <link>http://flannon.github.io/tags/html/</link>
+    <link>https://flannon.github.io/tags/html/</link>
     <description>Recent content in Html on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://flannon.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://flannon.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 2</title>
-      <link>http://flannon.github.io/projects/project2/</link>
+      <link>https://flannon.github.io/projects/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://flannon.github.io/projects/project2/</guid>
+      <guid>https://flannon.github.io/projects/project2/</guid>
       <description></description>
     </item>
     
